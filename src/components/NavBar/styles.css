@@ -1,0 +1,9 @@
+.container-navbar{
+    height: 62px;
+}
+.container-fluid h1 {
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-left: 41px;
+}

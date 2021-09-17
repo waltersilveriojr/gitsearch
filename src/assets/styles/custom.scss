@@ -1,0 +1,15 @@
+$primary: #1890FF;
+$danger: #ff5555;
+
+$theme-colors: (
+    'primary':$primary,
+    'danger':$danger
+);
+
+
+$body-bg: #fff;
+$body-color: #263238;
+
+
+@import '~bootstrap/scss/bootstrap.scss';
+
